@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.yourname.autoloot.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChestScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
